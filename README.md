@@ -16,8 +16,5 @@ In the car industry, a good way to compare competition is to look at features (e
 
 We need to collect data  which summarizes a car models fuel efficiency, luxury option, safety ratings, color options, storage space, and average used car price after 50,000 miles, and manufacturer and cost. Then we run a multiple linear regression with cost as our dependent variable and all variables listed above as independent. This model will allow us to determine the contribution of each of these features towards the overall price. Once we develop it, we will have a "performance baseline" model to plug our MechaCar data into to predict how it will perform.
 
-For example, the model predicts the MechaCar prototype is $45,000. We can interpret this value has the "perceived value" of the car. Therefore if we price the car at $40,000, for example, we can assume the car will have an advantageous cost:feature position and outperform competitors.
-
-
 
 The null hypothesis: the MechaCar prototype
